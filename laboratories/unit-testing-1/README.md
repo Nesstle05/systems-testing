@@ -1,24 +1,20 @@
-# unit-testing-1-lab
+# Pytest Unit Testing 1
 
-<ol>
-    
-  <li>test_primes: 4p
-    <ul>
-      <li> Exercise 0: 1p</li>
-      <li> Exercise 1: 2p</li>
-      <li> Exercise 2: 1p</li>  
-    </ul>  
-      
-  </li>
-  
-  <li>test_car: 6p  
-      
-   <ul>
-      <li> Exercise 0: 2p</li>
-      <li> Exercise 1: 2p</li>
-      <li> Exercise 2: 2p</li>  
-    </ul>
-      
-  </li> 
-  
-</ol>
+## Overview
+
+This repository contains a simple bookstore management system to help you learn basic pytest and unit testing.
+
+## Project Structure
+
+#TBD
+
+## Getting Started
+
+1. Clone the repository
+2. Ensure you have Python and pytest installed
+3. Run tests using: `pytest -v bookstore_tests.py`
+
+## Recommended Setup
+
+-   Python 3.10+
+-   pytest
